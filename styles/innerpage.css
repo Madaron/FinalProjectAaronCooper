@@ -1,0 +1,40 @@
+/*Developer: Aaron Cooper, IS117-003, Fall 2021*/
+html
+{
+    background-color: #246bce;
+}
+
+footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+main
+{
+    padding: 50px 50px 50px 50px;
+}
+
+main img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 400px;
+    float: left;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.main-text
+{
+    padding-left: 50px
+}
